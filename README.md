@@ -106,7 +106,7 @@ public class FetchDataUsingJavaApplication {
 }
 ```
 
-**Note: ** The above code assumes that the Jokes API returns a JSON object with a "joke" field that contains the joke data. 
+**Note:** The above code assumes that the Jokes API returns a JSON object with a "joke" field that contains the joke data. 
 You may need to modify the code to match the structure of the JSON response from your chosen API.
 
 ## Step 5: Run Your Spring Boot Application
