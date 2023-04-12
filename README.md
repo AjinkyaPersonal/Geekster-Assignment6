@@ -111,5 +111,11 @@ You may need to modify the code to match the structure of the JSON response from
 
 ## Step 5: Run Your Spring Boot Application
 Compile and run your Spring Boot application to fetch jokes from the Jokes API. 
-You should see the joke data printed to the console
+You should see the joke data printed to the console.
+
+## Output - 
+* 1 ![1 1](https://user-images.githubusercontent.com/106467389/231465190-713a98c7-5eb1-4b7b-aba9-debd111f2634.png)
+* 2 ![1 3](https://user-images.githubusercontent.com/106467389/231465348-713eff18-0002-416b-b708-89730dbc30e2.png)
+
+
 
